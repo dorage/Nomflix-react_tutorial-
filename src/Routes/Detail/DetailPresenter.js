@@ -225,13 +225,7 @@ const DetailPresenter = ({ result, isMovie, loading, error }) =>
                 </TabHeader>
               </>
             )}
-            <TabBody>
-              <ReactPlayer
-                url={`https://www.youtube.com/watch?v=${
-                  result.videos.results[0].key
-                }`}
-              />
-            </TabBody>
+            <TabBody />
           </Tab>
         </Data>
       </Content>
