@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c2357e6b521a28fa76de2412b37a71f",
+    "revision": "99e043e7ead8cc57f5278316c270bf18",
     "url": "/Nomflix-react_tutorial-/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nomflix-react_tutorial-/static/js/2.cd985aac.chunk.js"
   },
   {
-    "revision": "9a94eafffbc28d13f8a1",
-    "url": "/Nomflix-react_tutorial-/static/js/main.0121c701.chunk.js"
+    "revision": "41d30bdf0a2000b18cb1",
+    "url": "/Nomflix-react_tutorial-/static/js/main.6c012534.chunk.js"
   },
   {
     "revision": "159724d11c284c034b8e",
