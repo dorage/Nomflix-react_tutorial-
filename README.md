@@ -1,5 +1,7 @@
 # Nomflix
 
+Try it on [netlify](https://festive-bardeen-71a2e6.netlify.com/)
+
 ## Screens
 
 - [ ] HOME
